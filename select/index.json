@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Unfair",
+  "base_artist": "z²",
+  "createdAt": "2026-03-10T22:31:38.379887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/01_Unfair_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/02_Unfair_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "unfair",
+      "artist": "d1v feat. Buffalobang",
+      "has_synced": true,
+      "path": "select/03_unfair_d1v_feat._Buffalobang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "unfair (feat. buffalobang)",
+      "artist": "d1v",
+      "has_synced": true,
+      "path": "select/04_unfair_(feat._buffalobang)_d1v.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/05_Unfair_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "L'Aura",
+      "has_synced": true,
+      "path": "select/06_Unfair_L'Aura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Little Unfair",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_A_Little_Unfair_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/08_Unfair_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Unfair",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/09_Little_Unfair_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unfair Weather Friend",
+      "artist": "Willie Nelson with Merle Haggard",
+      "has_synced": false,
+      "path": "select/10_Unfair_Weather_Friend_Willie_Nelson_with_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unfair Weather Friend",
+      "artist": "Willie Nelson & Merle Haggard",
+      "has_synced": false,
+      "path": "select/11_Unfair_Weather_Friend_Willie_Nelson_&_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "불공평해 Unfair - Live",
+      "artist": "EXO",
+      "has_synced": false,
+      "path": "select/12_불공평해_Unfair_-_Live_EXO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Tech N9ne feat. Krizz Kaliko & Cres Cru",
+      "has_synced": true,
+      "path": "select/13_Unfair_Tech_N9ne_feat._Krizz_Kaliko_&_Cres_Cru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/14_Unfair_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "07 A Little Unfair",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/15_07_A_Little_Unfair_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Exit, Unfair",
+      "artist": "mewithoutYou",
+      "has_synced": true,
+      "path": "select/16_My_Exit,_Unfair_mewithoutYou.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Unfair",
+      "artist": "Crossfire",
+      "has_synced": true,
+      "path": "select/17_Unfair_Crossfire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unfair",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_Unfair_z2.txt"
+    }
+  ]
+}
